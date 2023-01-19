@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently pursuing Master of Science in Information Systems @Northeastern University
 - 💻 Former Senior Lead Engineer - Product Development at Fidelity National Information Services
 - 🖥️ Former Technology Analyst at Infosys
+- ⚡ Portfolio: https://github.com/anibahs/Shabina-Singh
 - 📫 How to reach me: anibahs@gmail.com | LinkedIn: https://linkedin.com/in/shabina-singh
 - 😄 Pronouns: she/her
+
