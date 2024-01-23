@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anibahs@gmail.com | LinkedIn: https://linkedin.com/in/shabina-singh
 - 😄 Pronouns: she/her
 
-
-Certifications:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e8fd0dec-bed3-40a1-b1e9-5b7f773f364a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
